@@ -51,9 +51,9 @@ public class FlagCli {
     
     
     private static void printItFlag() {        
-        System.out.println(ANSI_BG_GREEN +   "                ");        
-        System.out.println(ANSI_BG_WHITE + "                "); 
-        System.out.println(ANSI_BG_RED +   "                ");
+        System.out.print(ANSI_BG_GREEN +   " ");        
+        System.out.print(ANSI_BG_WHITE + " "); 
+        System.out.print(ANSI_BG_RED +   " ");
         
         
     }
